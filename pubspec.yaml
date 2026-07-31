@@ -1,0 +1,20 @@
+name: floating_dock_nav_bar
+description: "A premium macOS and Telegram style Floating Dock Navigation Bar for Flutter apps."
+version: 1.0.0
+homepage: https://github.com/nhuonggvn/floating_dock_nav_bar
+repository: https://github.com/nhuonggvn/floating_dock_nav_bar
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
